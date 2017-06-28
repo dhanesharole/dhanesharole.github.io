@@ -1,2 +1,7 @@
+title: Dhanesh Arole blog
+author: 
+  name: Dhanesh Arole
+  url: https://dhanesharole.github.io
+
 theme: jekyll-theme-cayman
 permalink: /:categories/:title/
