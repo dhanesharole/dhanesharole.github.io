@@ -1,10 +1,10 @@
 ---
 layout: post
-title: What u should learn as a software developer ?
+title: What u should learn as a developer ?
 category: Software Engineering
 ---
 
-I have been working as an Application Developer for last couple of years in software industry. This journey has been amazing and has taught me lot of things. Recently, I was taking a stake of what exactly have I learnt in this industry ? How has it shaped me as a programmer and as an individual ? I am pretty certain that everyone will have her/his own personal experiences in this field. But this blog post will try to answer this question of what 'you' as a software developer should learn ?
+I have been working as an Application Developer for last couple of years in software industry. This journey has been amazing and has taught me lot of things. Recently, I was taking a stake of what exactly have I learnt in this industry ? How has it shaped me as a programmer and as an individual ? I am pretty certain that everyone will have her/his own personal experiences in this field. But this blog post will try to answer this question of what 'you' as a software developer should learn based on my understanding of different aspects of software development in professional capcity.
  
 ### Developer specific lessons:
 - Nothing gives you more clarity than reading code. Stackoverflow / some blog posts etc are all _mohmaya_.
