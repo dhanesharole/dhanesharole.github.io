@@ -39,4 +39,4 @@ I have been working as an Application Developer for last couple of years in soft
 - Find yourself a larger purpose than money to come to work everyday. This will help you enjoy your lifetime in any role that you are in. Otherwise, you will always be void and empty.
 - Great culture is not just greeting your teammates every morning or celebrating their birthdays together. It's also not about having free meals or some extra perks that we all get at our respective organizations. It's about being responsible for your actions. Being accountable for your suggestions and taking ownership of your work. Find a place with this sort of culture that will give you an opportunity to build these qualities. If you happen to find one then don't waste that opportunity.
 
-That's it. More or less these are going to be guiding principles for my future journey in the world of Software Industry. Thanks.
+That's it. More or less these are going to be guiding principles for my future journey in the world of software industry. Thanks.
