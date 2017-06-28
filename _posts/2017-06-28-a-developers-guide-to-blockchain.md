@@ -4,4 +4,7 @@ title: A developer's guide to blockchain
 categories: blockchain
 ---
 
-Something we need to know about blockchain
+### What is blockchain ?
+
+	- It is magic
+	- It is holy grail
