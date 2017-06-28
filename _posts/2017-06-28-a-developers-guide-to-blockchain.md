@@ -1,5 +1,7 @@
 ---
+layout: post
 title: A developer's guide to blockchain
 categories: blockchain
-layout: post
 ---
+
+### Something we need to know about blockchain
