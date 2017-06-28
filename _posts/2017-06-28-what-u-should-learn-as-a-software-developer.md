@@ -1,10 +1,10 @@
 ---
 layout: post
-title: What have I learnt as a developer ?
+title: What u should learn as a software developer ?
 category: Software Engineering
 ---
 
-I have been working as an Application Developer for last couple of years in software industry. This journey has been amazing and has taught me lot of things. Recently, I was taking a stake of what exactly have I learnt in this industry ? How has it shaped me as a programmer and as an individual ? I am pretty certain that everyone will have her/his own personal experiences in this field. But this blog post is very specific to my learnings from different aspects of software engineering.
+I have been working as an Application Developer for last couple of years in software industry. This journey has been amazing and has taught me lot of things. Recently, I was taking a stake of what exactly have I learnt in this industry ? How has it shaped me as a programmer and as an individual ? I am pretty certain that everyone will have her/his own personal experiences in this field. But this blog post will try to answer this question of what 'you' as a software developer should learn ?
  
 ### Developer specific lessons:
 - Nothing gives you more clarity than reading code. Stackoverflow / some blog posts etc are all _mohmaya_.
@@ -39,4 +39,6 @@ I have been working as an Application Developer for last couple of years in soft
 - Find yourself a larger purpose than money to come to work everyday. This will help you enjoy your lifetime in any role that you are in. Otherwise, you will always be void and empty.
 - Great culture is not just greeting your teammates every morning or celebrating their birthdays together. It's also not about having free meals or some extra perks that we all get at our respective organizations. It's about being responsible for your actions. Being accountable for your suggestions and taking ownership of your work. Find a place with this sort of culture that will give you an opportunity to build these qualities. If you happen to find one then don't waste that opportunity.
 
-That's it. More or less these are going to be guiding principles for my future journey in the world of software industry. Thanks.
+That's it. More or less these are going to be guiding principles for my future journey in the world of software industry, I am ready to be proven wrong.
+
+Thanks.
