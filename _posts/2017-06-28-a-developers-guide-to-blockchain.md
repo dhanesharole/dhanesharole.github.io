@@ -7,5 +7,6 @@ categories: blockchain
 ### What is blockchain ?
 
 It is combination of following cryptogrphic algorithms
-	- Algo 1
-	- Algo 2
+
+1. Algorithm 
+2. Algorithm
