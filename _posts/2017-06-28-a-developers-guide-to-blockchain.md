@@ -6,5 +6,6 @@ categories: blockchain
 
 ### What is blockchain ?
 
-	- It is magic
-	- It is holy grail
+It is combination of following cryptogrphic algorithms
+	- Algo 1
+	- Algo 2
