@@ -1,13 +1,12 @@
 ---
 layout: post
 title: A developer's guide to blockchain
-categories: blockchain
+category: Blockchain
 ---
 
 ### What is blockchain ?
 
 It is combination of following cryptogrphic algorithms
-
-- Algorithm 1
-- Algorithm 2
-- Algorithm 3
+- Algo 1
+- Algo 2
+- Algo 3

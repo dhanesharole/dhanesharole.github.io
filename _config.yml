@@ -6,5 +6,4 @@ author:
   name: Dhanesh Arole
   url: https://dhanesharole.github.io
 
-theme: jekyll-theme-cayman
-permalink: /:categories/:title/
+permalink: /posts/:title

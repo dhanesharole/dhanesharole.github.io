@@ -4,14 +4,20 @@ title: Dhanesh Arole blog
 ---
 
 <div id="home">
-	<h2>Recent posts</h2>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-      	<span>{{ post.date | date_to_string }} </span> &raquo; 
-      	<a href="{{ post.url }}">{{ post.title }}</a> 
-      	<span> <b>New</b> </span>
-      </li>
+  <ul>
+    {% assign posts_by_category = site.posts | group_by:"category" %}
+    {% for category in posts_by_category %}
+    <li>
+      <h3>{{category.name}}</h3>
+      <ul class="posts">
+        {% for post in category.items %} 
+        <li>
+          <span>{{ post.date | date_to_string }}</span> &raquo;
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </li>
     {% endfor %}
   </ul>
 </div>
