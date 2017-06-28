@@ -1,7 +1,15 @@
----
-layout: default
----
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<!DOCTYPE html>
+<html lang="en-us">
+  
+  {% include head.html %}
 
-{{ content }}
+  <body>
+
+    <section class="main-content">
+      
+      {{ content }}
+
+    </section>
+
+  </body>
+</html>
