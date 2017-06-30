@@ -2,6 +2,7 @@
 layout: post
 title: What u should learn as a developer ?
 description: List of essential skills that a software developer needs to have
+comments: true
 category: Software Engineering
 ---
 
