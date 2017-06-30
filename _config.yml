@@ -7,8 +7,7 @@ author:
   url: https://dhanesharole.github.io
 
 plugins:
-  - octopress-paginate
+  - jekyll-paginate
 
-pagination: 
-  limit: false
-  permalink: /page/:num/
+paginate: 2
+paginate_path: /page-:num/

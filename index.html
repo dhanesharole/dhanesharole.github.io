@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Dhanesh Arole blog
-paginate: true
 ---
 
 <div id="home">
@@ -12,17 +11,16 @@ paginate: true
         <a class="link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         <div class="description"><blockquote>{{ post.description }}</blockquote></div>
         <div class="metainfo">
-          <div><span class="category">[ {{ post.category }} ]</span></div>
-          <div><span class="date">{{ post.date | date_to_string }}</span></div>
+          <div>
+            <span class="category">[ {{ post.category }} ]</span>
+            <span class="date">{{ post.date | date_to_string }}</span>
+          </div>
         </div>
-      </div>
-    </li>
-    {% endfor %}
-  </ul>
-  <div id="paginator-data">
-    {% include paginator_data.html %}
+      </li>
+      <hr>
+      {% endfor %}
+    </ul>
+    <div id="paginator-data">
+      {% include paginator_data.html %}
+    </div>
   </div>
-</div>
-<div>
-  {% include page-footer.html %}
-</div>
