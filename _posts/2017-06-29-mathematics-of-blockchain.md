@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mathematics of blockchain
+description: High level introduction to mathematical foundations of blockchain
 category: Blockchain
 ---
 
