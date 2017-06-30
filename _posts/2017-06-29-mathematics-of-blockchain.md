@@ -1,8 +1,7 @@
 ---
 layout: post
-title: A developer's guide to blockchain
+title: Mathematics of blockchain
 category: Blockchain
-description: Short introduction to get started with blockchain
 ---
 
 ### What is blockchain ?

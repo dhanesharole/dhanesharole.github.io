@@ -182,6 +182,11 @@ a:hover { text-decoration: underline; }
 .main-content dl dd { padding: 0; margin-bottom: 1rem; }
 .main-content hr { height: 2px; padding: 0; margin: 1rem 0; background-color: #eff0f1; border: 0; }
 
+.post { margin-top: 1rem; margin-bottom: 1rem; }
+.post .description { opacity: 0.7; font-style: italic;}
+.post .metainfo { text-align: right; }
+.post .metainfo .category { color: #159957; }
+
 .site-footer { padding-top: 2rem; margin-top: 2rem; border-top: solid 1px #eff0f1; }
 @media screen and (min-width: 64em) { .site-footer { font-size: 1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .site-footer { font-size: 1rem; } }
