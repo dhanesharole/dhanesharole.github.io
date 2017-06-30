@@ -6,4 +6,9 @@ author:
   name: Dhanesh Arole
   url: https://dhanesharole.github.io
 
-permalink: /posts/:title/
+plugins:
+  - octopress-paginate
+
+pagination: 
+  limit: false
+  permalink: /page/:num/

@@ -1,23 +1,28 @@
 ---
 layout: default
 title: Dhanesh Arole blog
+paginate: true
 ---
 
 <div id="home">
-  <ul>
-    {% assign posts_by_category = site.posts | group_by:"category" %}
-    {% for category in posts_by_category %}
+  <ul id="post-list">
+    {% for post in paginator.posts %}
     <li>
-      <h3>{{category.name}}</h3>
-      <ul class="posts">
-        {% for post in category.items %} 
-        <li>
-          <span>{{ post.date | date_to_string }}</span> &raquo;
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>
+      <div class="post">
+        <a class="link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <div class="description"><blockquote>{{ post.description }}</blockquote></div>
+        <div class="metainfo">
+          <div><span class="category">[ {{ post.category }} ]</span></div>
+          <div><span class="date">{{ post.date | date_to_string }}</span></div>
+        </div>
+      </div>
     </li>
     {% endfor %}
   </ul>
+  <div id="paginator-data">
+    {% include paginator_data.html %}
+  </div>
+</div>
+<div>
+  {% include page-footer.html %}
 </div>
