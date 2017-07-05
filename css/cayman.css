@@ -137,7 +137,7 @@ a:hover { text-decoration: underline; }
 @media screen and (min-width: 64em) { .btn { padding: 0.75rem 1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .btn { padding: 0.6rem 0.9rem; font-size: 0.9rem; } }
 @media screen and (max-width: 42em) { .btn { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }
-  .btn + .btn { margin-top: 1rem; margin-left: 0; } }
+.btn + .btn { margin-top: 1rem; margin-left: 0; } }
 
 .page-header { color: #fff; text-align: center; background-color: #159957; background-image: linear-gradient(120deg, #155799, #159957); }
 @media screen and (min-width: 64em) { .page-header { padding: 5rem 6rem; } }
@@ -187,7 +187,10 @@ a:hover { text-decoration: underline; }
 .post .metainfo .category { color: #159957; }
 .post .metainfo .date { opacity: 0.6; margin-right: 0em; font-size: 0.9rem; }
 
-.site-footer { padding-top: 2rem; margin-top: 5rem; border-top: solid 1px #eff0f1; }
+.site-footer { 
+	padding-top: 1rem; padding-bottom: 1rem; margin-top: 2rem; border-top: solid 1px #eff0f1; 
+	color: #fff; text-align: center; background-color: #159957; background-image: linear-gradient(120deg, #155799, #159957); 
+}
 @media screen and (min-width: 64em) { .site-footer { font-size: 1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .site-footer { font-size: 1rem; } }
 @media screen and (max-width: 42em) { .site-footer { font-size: 0.9rem; } }
@@ -199,3 +202,5 @@ a:hover { text-decoration: underline; }
 #paginator-data {
 	text-align: center;
 }
+
+.site-footer a { color: #fff; }
